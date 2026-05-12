@@ -17,5 +17,5 @@ I am currently honing my skills in software development and database integration
 ---
 
 ### 📫 Conectemos
-*   **LinkedIn:** [linkedin.com/in/tu-usuario](https://www.linkedin.com/in/tu-usuario)
-*   **Correo:** tu-email@ejemplo.com
+*   **LinkedIn:** www.linkedin.com/in/braulio-pineda-260b3a358
+*   **Correo:** bpp293837@gmail.com
